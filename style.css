@@ -1,0 +1,44 @@
+.center{
+    display:flex;
+    flex-direction:column;
+    text-align:center;;
+  }
+  .titulo{
+    padding:15px;
+    background-color:#95A5A6;
+  }
+  #corpo{
+    margin-left:20%; 
+    margin-right:20%;
+    background-color:#2E4053 ;
+  }
+  body{
+    background-color:# ;  
+  }
+  
+  .img{
+    margin-left:10%; 
+    margin-right:10%;
+    margin-bottom:15%;
+  }
+  
+  .img2{
+    margin-left:10%; 
+    margin-right:10%;
+    margin-bottom:10%;
+    margin-top:10%;
+  }
+  
+  .img3{
+    margin-left:10%; 
+    margin-right:10%;
+    margin-bottom:10%;
+    margin-top:10%;
+  }
+  
+  .img4{
+    margin-left:0%; 
+    margin-right:0%;
+    margin-bottom:10%;
+    margin-top:10%;
+  }
